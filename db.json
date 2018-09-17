@@ -1,7 +1,7 @@
 {
   "profiles": [
-    {"id" : "1", "name" : "suraj", "rollno" : "10"},
-    {"id" : "2", "name" : "trunal", "rollno" : "20"},
-    {"id" : "3", "name" : "sachin", "rollno" : "30"}
+    {"id" : 1, "name" : "suraj", "rollno" : "10"},
+    {"id" : 2, "name" : "trunal", "rollno" : "20"},
+    {"id" : 3, "name" : "sachin", "rollno" : "30"}
   ]
 }
